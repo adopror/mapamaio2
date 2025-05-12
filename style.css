@@ -8,7 +8,7 @@ body
 {
     display: flex;
 }
-#map { height: 600px;max-width: 90vw;;}
+#map { height: 900px;max-width: 100vw;;}
 .mapa
 {
     flex-wrap: wrap;
